@@ -232,7 +232,6 @@ class Download extends React.Component {
                             <span className="nav-spacer" />
                             <h2><FormattedMessage id="download.otherVersionsTitle" /></h2>
                             <p><FormattedHTMLMessage id="download.otherVersionsOlder" /></p>
-                            <p><FormattedHTMLMessage id="download.otherVersionsAdmin" /></p>
                         </section>
 
                         <section id="issues">
